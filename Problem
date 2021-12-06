@@ -1,0 +1,9 @@
+Here is the list of problems with Dario's fork.
+
+-- Verbose Logging works poorly. In the vanilla version it's way easier to see what's going on.
+
+-- It's basically impossible to have gists with a Puzzlescript project using the fork.
+
+-- You can't share Puzzlescript games with a fork. You have to use Github for this.
+
+Surprisingly, the problem is also present with other forks.
